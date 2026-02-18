@@ -1,0 +1,44 @@
+{
+  "course": {
+    "course_code": "UIT2404",
+    "course_title": "Automata Theory and Compiler Design",
+    "course_type": "THEORY",
+    "semester": 4,
+    "credits": 3,
+    "hours": { "L": 3, "T": 0, "P": 0, "PRJ": 0 },
+
+    "course_outcomes": [
+      {
+        "co_code": "CO1",
+        "description": "Construct automata and regular expressions for any pattern",
+        "po_mapping": { "PO1": 2, "PO2": 1 },
+        "pso_mapping": { "PSO1": 1 }
+      },
+      {
+        "co_code": "CO2",
+        "description": "Write context free grammar for any construct",
+        "po_mapping": { "PO1": 2, "PO2": 1 },
+        "pso_mapping": { "PSO1": 1 }
+      },
+      {
+        "co_code": "CO3",
+        "description": "Build compiler phases and apply optimization techniques",
+        "po_mapping": { "PO1": 2, "PO2": 2 },
+        "pso_mapping": { "PSO2": 2 }
+      },
+      {
+        "co_code": "CO4",
+        "description": "Design Turing machines for given languages",
+        "po_mapping": { "PO1": 2, "PO2": 1, "PO3": 1 },
+        "pso_mapping": { "PSO1": 2, "PSO2": 1 }
+      },
+      {
+        "co_code": "CO5",
+        "description": "Explain decidability and undecidability problems",
+        "po_mapping": { "PO1": 2, "PO2": 1, "PO3": 1 },
+        "pso_mapping": { "PSO1": 2, "PSO2": 1 }
+      }
+    ]
+  }
+}
+

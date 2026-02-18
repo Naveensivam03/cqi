@@ -1,0 +1,36 @@
+{
+  "course": {
+    "course_code": "UIT2211",
+    "course_title": "Software Development Project – I",
+    "course_type": "PROJECT",
+    "semester": 2,
+    "credits": 1.5,
+    "hours": { "L": 0, "T": 0, "P": 3, "PRJ": 0 },
+
+    "course_outcomes": [
+      {
+        "co_code": "CO1",
+        "description": "Design and develop data-structure intensive software systems using IT project management practices",
+        "po_mapping": {
+          "PO1": 2,
+          "PO2": 3,
+          "PO9": 2,
+          "PO10": 2,
+          "PO11": 2
+        },
+        "pso_mapping": { "PSO1": 2 }
+      },
+      {
+        "co_code": "CO2",
+        "description": "Communicate effectively in team meetings and prepare project documentation",
+        "po_mapping": {
+          "PO9": 3,
+          "PO10": 3,
+          "PO11": 1
+        },
+        "pso_mapping": { "PSO2": 1 }
+      }
+    ]
+  }
+}
+

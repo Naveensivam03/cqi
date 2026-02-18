@@ -1,0 +1,94 @@
+{
+    "theory": {
+        "btech_it": [
+            {
+                "code": "UIT2404",
+                "title": "Automata Theory and Compiler Design",
+                "file": "automata.json"
+            }
+        ],
+        "be_cse": [
+            {
+                "code": "UIT2404",
+                "title": "Automata Theory and Compiler Design",
+                "file": "automata.json"
+            }
+        ],
+        "be_ece": [
+            {
+                "code": "UIT2404",
+                "title": "Automata Theory and Compiler Design",
+                "file": "automata.json"
+            }
+        ]
+    },
+    "tcp": {
+        "btech_it": [
+            {
+                "code": "UIT2402",
+                "title": "Advanced Data Structures and Algorithm Analysis",
+                "file": "ADSA.json"
+            }
+        ],
+        "be_cse": [
+            {
+                "code": "UIT2402",
+                "title": "Advanced Data Structures and Algorithm Analysis",
+                "file": "ADSA.json"
+            }
+        ],
+        "be_ece": [
+            {
+                "code": "UIT2402",
+                "title": "Advanced Data Structures and Algorithm Analysis",
+                "file": "ADSA.json"
+            }
+        ]
+    },
+    "project": {
+        "btech_it": [
+            {
+                "code": "UIT2211",
+                "title": "Software Development Project – I",
+                "file": "SDP.json"
+            }
+        ],
+        "be_cse": [
+            {
+                "code": "UIT2211",
+                "title": "Software Development Project – I",
+                "file": "SDP.json"
+            }
+        ],
+        "be_ece": [
+            {
+                "code": "UIT2211",
+                "title": "Software Development Project – I",
+                "file": "SDP.json"
+            }
+        ]
+    },
+    "lab": {
+        "btech_it": [
+            {
+                "code": "UIT2405",
+                "title": "Design Pattern",
+                "file": null
+            }
+        ],
+        "be_cse": [
+            {
+                "code": "UIT2405",
+                "title": "Design Pattern",
+                "file": null
+            }
+        ],
+        "be_ece": [
+            {
+                "code": "UIT2405",
+                "title": "Design Pattern",
+                "file": null
+            }
+        ]
+    }
+}

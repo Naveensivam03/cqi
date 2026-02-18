@@ -1,0 +1,64 @@
+{
+  "course": {
+    "course_code": "UIT2402",
+    "course_title": "Advanced Data Structures and Algorithm Analysis",
+    "course_type": "THEORY_LAB",
+    "semester": 4,
+    "credits": 5,
+    "hours": { "L": 3, "T": 0, "P": 2, "PRJ": 3 },
+
+    "course_outcomes": [
+      {
+        "co_code": "CO1",
+        "description": "Design and implement algorithms using hierarchical data structures",
+        "po_mapping": { "PO1": 3, "PO2": 1 },
+        "pso_mapping": { "PSO1": 3 }
+      },
+      {
+        "co_code": "CO2",
+        "description": "Select and apply algorithm design techniques efficiently",
+        "po_mapping": { "PO1": 3, "PO2": 2, "PO3": 2 },
+        "pso_mapping": { "PSO1": 3 }
+      },
+      {
+        "co_code": "CO3",
+        "description": "Analyze time and space complexity of algorithms",
+        "po_mapping": { "PO1": 3, "PO2": 1, "PO3": 1 },
+        "pso_mapping": { "PSO1": 3 }
+      },
+      {
+        "co_code": "CO4",
+        "description": "Explain intractability and NP-complete problems",
+        "po_mapping": { "PO1": 2, "PO2": 1, "PO3": 1 },
+        "pso_mapping": { "PSO1": 3 }
+      },
+      {
+        "co_code": "CO5",
+        "description": "Apply IT project management practices in algorithm-intensive systems",
+        "po_mapping": {
+          "PO1": 3,
+          "PO2": 3,
+          "PO9": 3,
+          "PO10": 3,
+          "PO11": 2,
+          "PO12": 2
+        },
+        "pso_mapping": { "PSO1": 3 }
+      },
+      {
+        "co_code": "CO6",
+        "description": "Communicate effectively and prepare technical documentation",
+        "po_mapping": {
+          "PO2": 3,
+          "PO3": 3,
+          "PO9": 3,
+          "PO10": 3,
+          "PO11": 2,
+          "PO12": 2
+        },
+        "pso_mapping": { "PSO1": 3 }
+      }
+    ]
+  }
+}
+
